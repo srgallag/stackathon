@@ -1,2 +1,2 @@
-# stackathon
-twitter api stackathon proj
+# twitter-sqr
+friends of friends twitter proj
